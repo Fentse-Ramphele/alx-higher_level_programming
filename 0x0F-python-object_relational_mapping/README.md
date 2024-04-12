@@ -7,7 +7,7 @@ ORM
 SQLAlchemy
  Weight: 1
  Project will start Apr 11, 2024 5:00 AM, must end by Apr 15, 2024 5:00 AM
- Checker will be released at Apr 12, 2024 5:00 AM
+ Checker was released at Apr 12, 2024 5:00 AM
  An auto review will be launched at the deadline
 Before you start…
 Please make sure your MySQL server is in 8.0 -> How to install MySQL 8.0 in Ubuntu 20.04
@@ -166,7 +166,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: 0-select_states.py
- 
+  
 1. Filter states
 mandatory
 Write a script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa:
@@ -201,7 +201,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: 1-filter_states.py
- 
+  
 2. Filter states by user input
 mandatory
 Write a script that takes in an argument and displays all values in the states table of hbtn_0e_0_usa where name matches the argument.
@@ -236,7 +236,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: 2-my_filter_states.py
- 
+  
 3. SQL Injection...
 mandatory
 Wait, do you remember the previous task? Did you test "Arizona'; TRUNCATE TABLE states ; SELECT * FROM states WHERE name = '" as an input?
@@ -280,7 +280,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: 3-my_safe_filter_states.py
- 
+  
 4. Cities by states
 mandatory
 Write a script that lists all cities from the database hbtn_0e_4_usa
@@ -342,7 +342,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: 4-cities_by_state.py
- 
+  
 5. All cities by state
 mandatory
 Write a script that takes in the name of a state as an argument and lists all cities of that state, using the database hbtn_0e_4_usa
@@ -394,7 +394,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: 5-filter_cities.py
- 
+  
 6. First state model
 mandatory
 
@@ -444,7 +444,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: model_state.py
- 
+  
 7. All states via SQLAlchemy
 mandatory
 Write a script that lists all State objects from the database hbtn_0e_6_usa
@@ -476,7 +476,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: 7-model_state_fetch_all.py
- 
+  
 8. First state
 mandatory
 Write a script that prints the first State object from the database hbtn_0e_6_usa
@@ -500,7 +500,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: 8-model_state_fetch_first.py
- 
+  
 9. Contains `a`
 mandatory
 Write a script that lists all State objects that contain the letter a from the database hbtn_0e_6_usa
@@ -525,7 +525,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: 9-model_state_filter_a.py
- 
+  
 10. Get a state
 mandatory
 Write a script that prints the State object with the name passed as argument from the database hbtn_0e_6_usa
@@ -550,7 +550,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: 10-model_state_my_get.py
- 
+  
 11. Add a new state
 mandatory
 Write a script that adds the State object “Louisiana” to the database hbtn_0e_6_usa
@@ -578,7 +578,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: 11-model_state_insert.py
- 
+  
 12. Update a state
 mandatory
 Write a script that changes the name of a State object from the database hbtn_0e_6_usa
@@ -605,7 +605,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: 12-model_state_update_id_2.py
- 
+  
 13. Delete states
 mandatory
 Write a script that deletes all State objects with a name containing the letter a from the database hbtn_0e_6_usa
@@ -627,7 +627,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: 13-model_state_delete_a.py
- 
+  
 14. Cities in state
 mandatory
 Write a Python file similar to model_state.py named model_city.py that contains the class definition of a City.
@@ -699,7 +699,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: model_city.py, 14-model_city_fetch_by_state.py
- 
+  
 15. City relationship
 #advanced
 Improve the files model_city.py and model_state.py, and save them as relationship_city.py and relationship_state.py:
@@ -742,7 +742,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: relationship_city.py, relationship_state.py, 100-relationship_states_cities.py
- 
+  
 16. List relationship
 #advanced
 Write a script that lists all State objects, and corresponding City objects, contained in the database hbtn_0e_101_usa
@@ -811,7 +811,7 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x0F-python-object_relational_mapping
 File: 101-relationship_states_cities_list.py
- 
+  
 17. From city
 #advanced
 Write a script that lists all City objects from the database hbtn_0e_101_usa
