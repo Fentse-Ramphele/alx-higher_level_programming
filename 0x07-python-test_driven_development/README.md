@@ -2,11 +2,15 @@
 Python
 UnitTests
 TDD
- By: Guillaume
  Weight: 1
- Project will start Jan 25, 2024 5:00 AM, must end by Jan 31, 2024 5:00 AM
- Checker will be released at Jan 31, 2024 5:00 AM
+ Project over - took place from Apr 4, 2024 5:00 AM to Apr 10, 2024 5:00 AM
  An auto review will be launched at the deadline
+In a nutshell…
+Auto QA review: 0.0/167 mandatory & 2.0/104 optional
+Altogether:  0.0%
+Mandatory: 0.0%
+Optional: 1.92%
+Calculation:  0.0% + (0.0% * 1.92%)  == 0.0%
 Concepts
 For this project, we expect you to look at this concept:
 
@@ -70,6 +74,7 @@ Great! You've completed the quiz successfully! Keep going! (Show quiz)
 Tasks
 0. Integers addition
 mandatory
+Score: 0.0% (Checks completed: 0.0%)
 Write a function that adds 2 integers.
 
 Prototype: def add_integer(a, b=98):
@@ -114,9 +119,10 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x07-python-test_driven_development
 File: 0-add_integer.py, tests/0-add_integer.txt
-  
+   
 1. Divide a matrix
 mandatory
+Score: 0.0% (Checks completed: 0.0%)
 Write a function that divides all elements of a matrix.
 
 Prototype: def matrix_divided(matrix, div):
@@ -152,9 +158,10 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x07-python-test_driven_development
 File: 2-matrix_divided.py, tests/2-matrix_divided.txt
-  
+   
 2. Say my name
 mandatory
+Score: 0.0% (Checks completed: 0.0%)
 Write a function that prints My name is <first name> <last name>
 
 Prototype: def say_my_name(first_name, last_name=""):
@@ -188,9 +195,10 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x07-python-test_driven_development
 File: 3-say_my_name.py, tests/3-say_my_name.txt
-  
+   
 3. Print square
 mandatory
+Score: 0.0% (Checks completed: 0.0%)
 Write a function that prints a square with the character #.
 
 Prototype: def print_square(size):
@@ -246,9 +254,10 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x07-python-test_driven_development
 File: 4-print_square.py, tests/4-print_square.txt
-  
+   
 4. Text indentation
 mandatory
+Score: 0.0% (Checks completed: 0.0%)
 Write a function that prints a text with 2 new lines after each of these characters: ., ? and :
 
 Prototype: def text_indentation(text):
@@ -304,9 +313,10 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x07-python-test_driven_development
 File: 5-text_indentation.py, tests/5-text_indentation.txt
-  
+   
 5. Max integer - Unittest
 mandatory
+Score: 0.0% (Checks completed: 0.0%)
 Since the beginning you have been creating “Interactive tests”. For this exercise, you will add Unittests.
 
 In this task, you will write unittests for the function def max_integer(list=[]):.
@@ -366,9 +376,10 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x07-python-test_driven_development
 File: tests/6-max_integer_test.py
-  
+   
 6. Matrix multiplication
 #advanced
+Score: 0.0% (Checks completed: 0.0%)
 Write a function that multiplies 2 matrices:
 
 Read: Matrix multiplication - only Matrix product (two matrices)
@@ -407,9 +418,10 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x07-python-test_driven_development
 File: 100-matrix_mul.py, tests/100-matrix_mul.txt
-  
+   
 7. Lazy matrix multiplication
 #advanced
+Score: 0.0% (Checks completed: 0.0%)
 Write a function that multiplies 2 matrices by using the module NumPy
 
 To install it: pip3 install numpy==1.15.0
@@ -434,9 +446,10 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x07-python-test_driven_development
 File: 101-lazy_matrix_mul.py, tests/101-lazy_matrix_mul.txt
-  
+   
 8. CPython #3: Python Strings
 #advanced
+Score: 14.29% (Checks completed: 14.29%)
 
 
 Create a function that prints Python strings.
